@@ -1,1 +1,1 @@
-[WietseTRAP](WietseGielen.github.io/WietseTRAP/index.html "open WietseTRAP")
+[WietseTRAP](https://wietsegielen.github.io/WietseTRAP/index.html "open WietseTRAP")
